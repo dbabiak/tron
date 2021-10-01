@@ -4,5 +4,8 @@
   "main": "index.ts",
   "repository": "https://github.com/dbabiak/tron",
   "author": "dmb",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
 }
