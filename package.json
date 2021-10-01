@@ -1,0 +1,8 @@
+{
+  "name": "tron",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/dbabiak/tron",
+  "author": "dmb",
+  "license": "MIT"
+}
